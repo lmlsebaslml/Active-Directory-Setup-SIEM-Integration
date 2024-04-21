@@ -1,17 +1,5 @@
 # Cybersecurity Lab: Active Directory Setup & SIEM Integration
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Overview
 This repository contains resources and documentation for setting up a cybersecurity lab environment focusing on Active Directory setup, SIEM integration, and practical exercises using Splunk, Kali Linux, and Atomic Red Team.
 
