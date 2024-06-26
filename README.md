@@ -3,7 +3,7 @@
 ## Overview
 This repository contains resources and documentation for setting up a cybersecurity lab environment focusing on Active Directory setup, SIEM integration, and practical exercises using Splunk, Kali Linux, and Atomic Red Team.
 
-![AD diagram drawio](https://github.com/lmlsebaslml/Active-Directory-Setup-SIEM-Integration/assets/84816463/bd81e793-486e-4603-bd4d-31abbae1f6a5)
+![AD diagram drawio](https://github.com/lmlsebaslml/Active-Directory-Setup-SIEM-Integration/assets/84816463/65e170b0-b830-4897-89e1-69e414e07954)
 
 
 ## Table of Contents
