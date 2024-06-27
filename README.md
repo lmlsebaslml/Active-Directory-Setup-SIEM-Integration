@@ -20,12 +20,44 @@ In this lab, we aim to simulate a real-world scenario by setting up an Active Di
 ## Setup Instructions
 Follow these steps to set up your cybersecurity lab environment:
 
-1. **Hardware Requirements**: Ensure your system meets the hardware requirements for running the lab environment.
-2. **Software Requirements**: Install necessary software including VirtualBox, Splunk, Kali Linux, etc.
-3. **Active Directory Setup**: Step-by-step guide to setting up an Active Directory domain controller.
-4. **Splunk Installation**: Instructions for installing and configuring Splunk for event ingestion.
-5. **Kali Linux Setup**: Guidance on setting up Kali Linux for penetration testing.
-6. **Atomic Red Team Integration**: Integration steps for Atomic Red Team to simulate real-world attacks.
+1. **Hardware Requirements**: Ensure your system meets the lab environment's hardware requirements.
+   Kali:
+      4GB ram
+      8 Processors
+      Hard Disk 80GB
+   Windows 10 Pro **(It needs to be Pro, Education, or Enterprise version because it is the only way this machine can join the AD domain)**
+      6GB ram
+      6 Processors
+      Hard Disk 60GB
+   Splunk server:
+      16 GB ram
+      12 Processors
+      Hard Disk 20 GB
+   AD server:
+      8GB ram
+      8 Processors
+      Hard Disk 60GB
+3. **Software Requirements**: Install necessary software including VMware, Splunk, Kali Linux, etc.
+   VMware Workstation
+      https://www.youtube.com/watch?v=4DtIgDuPgdc
+    Windows 10:
+      https://www.microsoft.com/en-ca/software-download/windows10
+   Kali ISO:
+      https://www.kali.org/get-kali/#kali-virtual-machines
+   Windows Server 2022:
+      https://www.microsoft.com/es-es/evalcenter/download-windows-server-2022
+   Ubuntu sever:
+      https://ubuntu.com/download/server
+   Splunk forwarder:
+      https://www.splunk.com/en_us/download.html
+5. **Active Directory Setup**: Step-by-step guide to setting up an Active Directory domain controller.
+      https://www.youtube.com/watch?v=1XeDht_B-bA&list=RDCMUCWoH3f-Yx6TxJfO2O_ezJUw&index=2
+6. **Splunk Installation**: Instructions for installing and configuring Splunk for event ingestion.
+      https://www.youtube.com/watch?v=uXRxoPKX65Q&list=RDCMUCWoH3f-Yx6TxJfO2O_ezJUw&index=1
+7. **Kali Linux Setup**: Guidance on setting up Kali Linux for penetration testing.
+     https://www.youtube.com/watch?v=U0AMu3rznc4 
+8. **Atomic Red Team Integration**: Integration steps for Atomic Red Team to simulate real-world attacks.
+     https://github.com/redcanaryco/invoke-atomicredteam/wiki/Installing-Invoke-AtomicRedTeam 
 
 ## Lab Exercises
 This section contains a series of practical exercises to perform in your lab environment. Each exercise focuses on a specific aspect of cybersecurity and helps you develop practical skills:
