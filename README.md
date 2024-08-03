@@ -21,35 +21,58 @@ In this lab, we aim to simulate a real-world scenario by setting up an Active Di
 Follow these steps to set up your cybersecurity lab environment:
 
 1. **Hardware Requirements**: Ensure your system meets the lab environment's hardware requirements.
-   Kali:
+   
+-Kali:
+      
       4GB ram
+   
       8 Processors
+   
       Hard Disk 80GB
-   Windows 10 Pro **(It needs to be Pro, Education, or Enterprise version because it is the only way this machine can join the AD domain)**
+
+-Windows 10 Pro: **(It needs to be Pro, Education, or Enterprise version because it is the only way this machine can join the AD domain)**
+   
       6GB ram
+   
       6 Processors
+   
       Hard Disk 60GB
-   Splunk server:
+   
+  -Splunk server:
+   
       16 GB ram
+   
       12 Processors
+   
       Hard Disk 20 GB
-   AD server:
+   
+  -AD server:
+   
       8GB ram
+   
       8 Processors
+   
       Hard Disk 60GB
+   
 3. **Software Requirements**: Install necessary software including VMware, Splunk, Kali Linux, etc.
-   VMware Workstation
+   VMware Workstation:
       https://www.youtube.com/watch?v=4DtIgDuPgdc
+   
     Windows 10:
       https://www.microsoft.com/en-ca/software-download/windows10
+   
    Kali ISO:
       https://www.kali.org/get-kali/#kali-virtual-machines
+   
    Windows Server 2022:
       https://www.microsoft.com/es-es/evalcenter/download-windows-server-2022
+   
    Ubuntu sever:
       https://ubuntu.com/download/server
+   
    Splunk forwarder:
       https://www.splunk.com/en_us/download.html
+   
 5. **Active Directory Setup**: Step-by-step guide to setting up an Active Directory domain controller.
       https://www.youtube.com/watch?v=1XeDht_B-bA&list=RDCMUCWoH3f-Yx6TxJfO2O_ezJUw&index=2
 6. **Splunk Installation**: Instructions for installing and configuring Splunk for event ingestion.
