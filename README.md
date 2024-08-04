@@ -106,7 +106,7 @@ This section contains a series of practical exercises to perform in your lab env
 6. **Exercise 5**: Analyzing Telemetry Data in Splunk
 
 
-[Example]((https://github.com/lmlsebaslml/Active-Directory-Setup-SIEM-Integration/blob/main/Example%20MITRE%20ATT%26CK))
+[Example](https://github.com/lmlsebaslml/Active-Directory-Setup-SIEM-Integration/blob/main/Example%20MITRE%20ATT%26CK)
 
 ## Resources
 - Additional reading materials, tutorials, and references to deepen your understanding.
